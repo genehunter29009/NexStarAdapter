@@ -22,18 +22,7 @@ Documentation:
 
 ## Compiling
 
-The code can be compiled and uploaded to the Arduino using `make`.
-The provided Makefile requires [Arduino-Makefile](https://github.com/sudar/Arduino-Makefile)
-to work. In Debian/Ubuntu/Mint, you can install it with
-
-    sudo apt install arduino-mk
-
-Of course, you can also program the Arduino board using the Arduino IDE.
-
-
-## Schematics
-
-![](images/aux_connector.png)
+The code can be compiled using the standard windows Arudino IDE. Jaun has an excellent site on doing this in Linux however my fork is based on Windows only. I am planning to use Mini PC for observatory control. 
 
 ![](images/circuit.png)
 
